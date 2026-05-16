@@ -1,12 +1,13 @@
 ## Git and GitHub
 
-![My Skills|173](https://skillicons.dev/icons?i=git,github)
+![My Skills|173](https://skillicons.dev/icons?i=git,github,linux)
 
 
 ### This repository covers: 
-- Version Control fundamentals
-- Git and GitHub fundamentals
+- Version Control Fundamentals
+- Git and GitHub Fundamentals
 - GitHub Contributor Workflow
+- Unix Terminal Baics
 
 ---
 
